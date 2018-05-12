@@ -1,4 +1,8 @@
 _repo: The-Chief-Periods-of-European-History-Six-lectures-read-in-the-University-of-Oxford-in-Trinit__47931
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47931-h/images/cover.jpg
 creator:
   author:
     agent_name: Freeman, Edward A. (Edward Augustus)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/526
     wikipedia: http://en.wikipedia.org/wiki/Edward_Augustus_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47931#The-Chief-Periods-of-European-History-Six-lectures-read-in-the-University-of-Oxford-in-Trinit_
 gutenberg_issued: '2015-01-10'
 gutenberg_type: Text
 identifiers:
